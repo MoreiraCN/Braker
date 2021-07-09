@@ -1,6 +1,6 @@
 ### Genomic annotation with Braker
 
-The following pipeline was used for aligning cross-species protein sequences of *Mus musculus* to the assembled genome of the species *Holochilus sciureus* (2n = 56, NF = 56), a Neotropical rodent of tribe Oryzomyini.
+The following pipeline was used for aligning protein sequences of *Mus musculus* to the assembled genome of the species *Holochilus sciureus* (2n = 56, NF = 56), a Neotropical rodent of tribe Oryzomyini.
 
 **Software used:**
 
