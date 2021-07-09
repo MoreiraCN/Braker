@@ -8,7 +8,7 @@ The following pipeline was used for aligning protein sequences of *Mus musculus*
 
 **Input data:**
 
-- Softmasking genome, the genome masked with [RepeatMasker](https://github.com/MoreiraCN/RepeatMasker) using the option '-xsmall' in the comand line for masking (`/RepeatMasker perl -pa 20 -gff -xsmall -lib /repeatmodeler/sample_name/consensi.fa.classified -s -a -dir RepeatMasker_sample_name assembly.fa`).
+- Softmasking genome (the genome masked with [RepeatMasker](https://github.com/MoreiraCN/RepeatMasker) using the option '-xsmall' in the comand line for masking (`/RepeatMasker perl -pa 20 -gff -xsmall -lib /repeatmodeler/sample_name/consensi.fa.classified -s -a -dir RepeatMasker_sample_name assembly.fa`)).
 - Protein translations of Ensembl genes from a [reference species](http://ftp.ensembl.org/pub/release-104/fasta/mus_musculus/pep/).
 
 **Command line used:**
